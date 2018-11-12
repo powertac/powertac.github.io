@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    * {
+      font-family: sans-serif;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>PowerTAC</h1>
+
+  These are the Maven reports for all modules in the
+  <a href="https://github.com/powertac/powertac-core/">powertac-core</a> as well as the
+  <a href="https://github.com/powertac/powertac-server/">powertac-server</a>
+  repositories.
+
+  <p>Please select a branch or tag:</p>
+  <ul>
