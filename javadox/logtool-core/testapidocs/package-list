@@ -1,0 +1,13 @@
+org.powertac.common
+org.powertac.common.repo
+org.powertac.customer
+org.powertac.customer.coldstorage
+org.powertac.customer.model
+org.powertac.du
+org.powertac.evcustomer
+org.powertac.evcustomer.beans
+org.powertac.evcustomer.customers
+org.powertac.factoredcustomer
+org.powertac.genco
+org.powertac.logtool
+org.powertac.logtool.common
