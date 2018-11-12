@@ -1,0 +1,6 @@
+org.powertac.logtool
+org.powertac.logtool.common
+org.powertac.server
+org.powertac.visualizer.security
+org.powertac.visualizer.service
+org.powertac.visualizer.web.rest
