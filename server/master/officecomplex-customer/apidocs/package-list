@@ -6,6 +6,7 @@ org.powertac.common.interfaces
 org.powertac.common.msg
 org.powertac.common.repo
 org.powertac.common.spring
+org.powertac.common.state
 org.powertac.common.xml
 org.powertac.customer
 org.powertac.officecomplexcustomer
