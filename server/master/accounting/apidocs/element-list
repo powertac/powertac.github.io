@@ -1,0 +1,16 @@
+org.powertac.accounting
+org.powertac.common
+org.powertac.common.config
+org.powertac.common.enumerations
+org.powertac.common.exceptions
+org.powertac.common.interfaces
+org.powertac.common.metadata
+org.powertac.common.msg
+org.powertac.common.repo
+org.powertac.common.spring
+org.powertac.common.state
+org.powertac.common.xml
+org.powertac.customer
+org.powertac.metadata
+org.powertac.tariffmarket
+org.powertac.util
